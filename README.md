@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-JavaScript   20 mins         ████████████████████████▒   97.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
